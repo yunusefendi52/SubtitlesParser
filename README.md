@@ -36,5 +36,6 @@ async Task<StringBuilder> GetSubtitleText(StorageFile storageFile, Encoding enco
             sb.AppendLine();
         }
     }
-return sb;
+    return sb;
+}
 ```
