@@ -2,9 +2,9 @@
 SubtitleParser for Cross-Platform, Works on all Xamarin platform (Xamarin.iOS, Xamarin.Android, Xamarin.Forms) and UWP.
 thanks to AlexPoint.
 
-Install via NUGET:
-```csharp
-Install-Package YunusEfendi.SubtitleParser
+Install via [NuGet](https://www.nuget.org/packages/YunusEfendi.SubtitlesParser/):
+```
+Install-Package YunusEfendi.SubtitlesParser
 ```
 
 Supported format:

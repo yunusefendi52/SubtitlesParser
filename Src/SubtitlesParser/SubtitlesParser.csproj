@@ -5,11 +5,12 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <Version>1.0.0</Version>
-    <FileVersion>1.0.0</FileVersion>
+    <Version>2.0.0</Version>
+    <FileVersion>2.0.0</FileVersion>
     <Authors>Yunus Efendi</Authors>
     <Copyright>Copyright (c) $([System.DateTime]::Now.Year)</Copyright>
-    <Description>SubtitlesParser for .NET platforms</Description>
+    <Description>SubtitleParser for Cross-Platform, Works on all Xamarin platform (Xamarin.iOS, Xamarin.Android, Xamarin.Forms), .NET and UWP</Description>
+    <PackageId>YunusEfendi.SubtitlesParser</PackageId>
   </PropertyGroup>
   
   <PropertyGroup Condition="'$(TargetFramework)'=='net40'">
